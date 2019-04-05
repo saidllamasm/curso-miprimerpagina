@@ -2,23 +2,15 @@
 # Bienvenido al curso '¿Cómo crear mi primera página web?'
 
 -Por J. Said Llamas Manriquez
-  
-
-<img  src="https://i.ibb.co/ZGvMMJY/Landing-Page-Taller-Web-ITCGIEEE.png"  width="100%">
-
-  
-
-  
-  
+ 
+<img  src="https://i.ibb.co/ZGvMMJY/Landing-Page-Taller-Web-ITCGIEEE.png"  width="100%">  
 
 # Tabla de contenido
 
--  [Enlaces importantes](#project-description)
-
-*  [Temario](#problem-detected)
-
+-  [Mensaje de bienvenida](#bienvenidosas)
+-  [Temario](#temario)
+-  [Enlaces importantes](#enlaces-importantes)
 -  [Credits](#credits)
-
 -  [License](#license)
 
 # Bienvenidos/as
@@ -59,10 +51,12 @@ A continuación, te presento los objetivos específicos del curso:
  -  [Descargar Bootstrap](https://getbootstrap.com)
 	 - [Documentación general](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 	 - [Grid](https://getbootstrap.com/docs/4.3/layout/grid/)
- -  [HTML](https://getbootstrap.com)
- -  [CSS](https://getbootstrap.com)
-
+ -  [HTML](https://www.w3schools.com/html/)
+ -  [CSS](https://www.w3schools.com/css/)
   
+# Credits
+- [unDraw](https://undraw.co/illustrations)
+- [Adobe Color](https://color.adobe.com/es/)
 
 # License
 
