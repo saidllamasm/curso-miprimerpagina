@@ -58,7 +58,7 @@ A continuación, te presento los objetivos específicos del curso:
  
  ### Hosting 
 
--[000webhost](https://www.000webhost.com)
+- [000webhost](https://www.000webhost.com)
   
 # Credits
 - [unDraw](https://undraw.co/illustrations)
