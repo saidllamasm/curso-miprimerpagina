@@ -46,6 +46,8 @@ A continuación, te presento los objetivos específicos del curso:
 - [Google Fonts](https://fonts.google.com)
 - [FontAwesome](https://fontawesome.com)
 - [Flaticon](https://www.flaticon.com)
+- [Box Shadow](https://www.cssmatic.com/es/box-shadow)
+- [CSS Gradient](https://cssgradient.io)
 
 ### Documentación recomendada
  -  [Descargar Bootstrap](https://getbootstrap.com)
