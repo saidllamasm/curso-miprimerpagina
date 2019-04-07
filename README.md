@@ -55,6 +55,10 @@ A continuación, te presento los objetivos específicos del curso:
 	 - [Grid](https://getbootstrap.com/docs/4.3/layout/grid/)
  -  [HTML](https://www.w3schools.com/html/)
  -  [CSS](https://www.w3schools.com/css/)
+ 
+ ### Hosting 
+
+-[000webhost](https://www.000webhost.com)
   
 # Credits
 - [unDraw](https://undraw.co/illustrations)
