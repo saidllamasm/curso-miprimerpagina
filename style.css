@@ -1,0 +1,197 @@
+.bg-primary {
+    background: rgb(61, 0, 226);
+    background: -moz-linear-gradient(162deg, rgba(61, 0, 226, 1) 0%, rgba(30, 112, 239, 1) 46%, rgba(0, 219, 251, 1) 100%);
+    background: -webkit-linear-gradient(162deg, rgba(61, 0, 226, 1) 0%, rgba(30, 112, 239, 1) 46%, rgba(0, 219, 251, 1) 100%);
+    background: linear-gradient(162deg, rgba(61, 0, 226, 1) 0%, rgba(30, 112, 239, 1) 46%, rgba(0, 219, 251, 1) 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr="#3d00e2", endColorstr="#00dbfb", GradientType=1);
+}
+
+.bg-secondary {
+    background: rgb(0, 217, 251);
+    background: -moz-linear-gradient(43deg, rgba(0, 217, 251, 1) 0%, rgba(110, 235, 255, 1) 46%, rgba(100, 234, 255, 1) 100%);
+    background: -webkit-linear-gradient(43deg, rgba(0, 217, 251, 1) 0%, rgba(110, 235, 255, 1) 46%, rgba(100, 234, 255, 1) 100%);
+    background: linear-gradient(43deg, rgba(0, 217, 251, 1) 0%, rgba(110, 235, 255, 1) 46%, rgba(100, 234, 255, 1) 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr="#00d9fb", endColorstr="#64eaff", GradientType=1);
+}
+
+.bg-primary h1 {
+    color: #fff;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.bg-primary p {
+    color: #fff;
+    font-family: 'Comic Sans MS', sans-serif;
+    font-size: 17px;
+}
+
+.intro {
+    min-height: 450px;
+    padding-top: 30px;
+    padding-bottom: 115px;
+}
+
+.about {
+    margin-top: 80px;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Baloo Bhaina';
+}
+
+h1 {
+    font-size: 42px;
+}
+
+h2 {
+    font-size: 30px;
+    color: #21292F;
+}
+
+h3 {
+    color: #586772;
+    font-size: 20px;
+}
+
+p {
+    font-family: 'Noto Sans', sans-serif;
+    color: #B7B0B0;
+}
+
+.btn {
+    margin: 10px;
+    padding: 4px 25px;
+    font-family: 'Baloo Bhaina';
+    border-radius: 25px;
+    color: white;
+}
+
+.btn:hover {
+    color: rgb(0, 217, 251);
+    border: 1px solid rgb(0, 217, 251);
+    background: #fff;
+    text-decoration: none;
+}
+
+.img_section {
+    width: 100%
+}
+
+span.logo {
+    font-size: 20px;
+    font-family: 'Faster One', cursive;
+}
+
+.text-center {
+    text-align: center;
+}
+
+span.icon {
+    /* border: 1px solid; */
+    padding: 20px 22px;
+    border-radius: 50%;
+    -webkit-box-shadow: 0px 0px 23px -10px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 0px 23px -10px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 23px -10px rgba(0, 0, 0, 0.75);
+}
+
+span i {
+    color: rgb(61, 0, 226);
+}
+
+span.title {
+    font-family: "Baloo Bhaina";
+    font-size: 21px
+}
+
+.feature-single {
+    padding: 20px;
+    margin-top: 10px;
+}
+
+.feature-single-bg:hover {
+    cursor: pointer;
+    color: #fff;
+    background: rgb(61, 0, 226);
+    background: -moz-linear-gradient(162deg, rgba(61, 0, 226, 1) 0%, rgba(30, 112, 239, 1) 46%, rgba(0, 219, 251, 1) 100%);
+    background: -webkit-linear-gradient(162deg, rgba(61, 0, 226, 1) 0%, rgba(30, 112, 239, 1) 46%, rgba(0, 219, 251, 1) 100%);
+    background: linear-gradient(162deg, rgba(61, 0, 226, 1) 0%, rgba(30, 112, 239, 1) 46%, rgba(0, 219, 251, 1) 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr="#3d00e2", endColorstr="#00dbfb", GradientType=1);
+    border-radius: 5px;
+}
+
+.feature-single-bg:hover p {
+    color: #fff;
+}
+
+.feature-single-bg:hover span.icon {
+    background: #fff;
+}
+
+.feature-single p {
+    margin-top: 10px;
+    color: #9B9B9B;
+}
+
+.bg-section {
+    margin-top: 55px;
+    margin-bottom: 55px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+footer {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+footer span.logo {
+    color: #3D00E2;
+    font-size: 30px
+}
+
+a.link-footer {
+    color: #70767B;
+    font-family: 'Baloo Bhaina';
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px
+}
+
+.mg {
+    margin-top: 15px;
+}
+
+.intro-content {
+    margin-top: 50px;
+}
+
+.intro-content h2 {
+    color: #fff;
+}
+
+.intro-content h3 {
+    color: #fff;
+}
+
+a.link {
+    font-family: 'Baloo Bhaina', cursive;
+    color: #fff;
+    text-decoration: none;
+    font-size: 17px;
+    padding: 0px 20px;
+}
+
+a.link:hover {
+    background-color: #1E006E;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 20px;
+}
+
+span.logo {
+    color: #fff;
+}
